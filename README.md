@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @harshkm
-- 👀 I’m interested App Development.
-- 🌱 I’m currently learning DSA and App dev.
-- 💞️ I’m looking to collaborate on some small projects to enhance my industrial skills.
-- 📫 How to reach me mail me kumarharsh.mahour000@gmail.com
+- 👀 I’m interested DevOps.
+- 🌱 I’m currently a DevOps Engineer at Jio Platforms ltd.
+- 💞️ I’m looking to Work on New Projects Every Now and Then.
+- 📫 How to reach me? Mail me at kumarharsh.mahour000@gmail.com .
 
 <!---
 harshkm/harshkm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
